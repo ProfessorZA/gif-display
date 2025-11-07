@@ -39,3 +39,8 @@ Install dependencies:
 ```bash
 pip install PyQt6 Pillow
 
+## 🎬 Demo
+
+Here’s a preview of the sprite in action:
+
+![Demo](assets/example.gif)
