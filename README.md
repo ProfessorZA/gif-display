@@ -1,4 +1,5 @@
 # gif-display
+
 This allows you to have an animated GIF that floats above your Linux desktop — built with Python and PyQt6.
 
 # 🧿 Desktop Gif
@@ -7,6 +8,13 @@ A way to have an animated GIF float above your desktop.
 Built with **Python** and **PyQt6**, this simple project creates a way for you to have an animated gif that stays above all windows and can be moved freely.
 
 ---
+Add the path to your gif
+# Path to GIF
+gif_path = " "
+
+Adjust the scale_factor to your liking
+# Fixed scale factor to reduce size by 60%
+scale_factor = 0.4
 
 ## ✨ Features
 
