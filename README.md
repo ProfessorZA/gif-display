@@ -4,9 +4,10 @@ This allows you to have an animated GIF that floats above your Linux desktop —
 
 ## 🎬 Demo
 
-Here’s a preview of the sprite in action:
+Here’s a preview:
 
-![Demo](assets/example.gif)
+![Image](https://github.com/user-attachments/assets/e4148694-2951-4825-ab3b-64feb683b022)
+
 This allows you to have an animated GIF that floats above your Linux desktop — built with Python and PyQt6.
 
 # 🧿 Desktop Gif
