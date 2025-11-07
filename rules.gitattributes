@@ -1,0 +1,6 @@
+# Exclude images and demos from ZIP downloads
+assets/* export-ignore
+images/* export-ignore
+*.gif export-ignore
+*.png export-ignore
+*.jpg export-ignore
