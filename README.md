@@ -17,11 +17,9 @@ Built with **Python** and **PyQt6**, this simple project creates a way for you t
 
 ---
 Add the path to your gif
-# Path to GIF
 gif_path = " "
 
 Adjust the scale_factor to your liking
-# Fixed scale factor to reduce size by 60%
 scale_factor = 0.4
 
 ## ✨ Features
